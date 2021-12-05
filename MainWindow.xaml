@@ -1,0 +1,24 @@
+﻿<Window x:Class="DownTatnik.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DownTatnik"
+        mc:Ignorable="d"
+        Title="DownTatnik" Height="450" Width="800"
+        x:Name="WindowWithDown"
+        >
+    
+    <DockPanel>
+        <Menu DockPanel.Dock="Top" Height="24" Background="Gray" FontSize="14">
+            <MenuItem Header="File" Width="30">
+                <MenuItem Header="Save" x:Name="SaveButton" Click="SaveButton_Click"/>
+                <MenuItem Header="Open" x:Name="OpenButton" Click="OpenButton_Click"/>
+                <MenuItem Header="New" x:Name="NewButton" Click="NewButton_Click"/>
+            </MenuItem>
+            <MenuItem Header="Exit" x:Name="ExitButton" Click="ExitButton_Click" Width="30"/>
+        </Menu>
+        <TextBox AcceptsTab="True" DockPanel.Dock="Bottom" x:Name="TxtBox" 
+                 TextChanged="TxtBox_TextChanged" FontSize="16"/>
+    </DockPanel>
+</Window>

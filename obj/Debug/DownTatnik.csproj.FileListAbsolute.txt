@@ -1,0 +1,15 @@
+D:\PROGRAMOWANIE\C#\projekty\DownTatnik\bin\Debug\DownTatnik.exe.config
+D:\PROGRAMOWANIE\C#\projekty\DownTatnik\bin\Debug\DownTatnik.exe
+D:\PROGRAMOWANIE\C#\projekty\DownTatnik\bin\Debug\DownTatnik.pdb
+D:\PROGRAMOWANIE\C#\projekty\DownTatnik\obj\Debug\DownTatnik.csprojAssemblyReference.cache
+D:\PROGRAMOWANIE\C#\projekty\DownTatnik\obj\Debug\MainWindow.g.cs
+D:\PROGRAMOWANIE\C#\projekty\DownTatnik\obj\Debug\App.g.cs
+D:\PROGRAMOWANIE\C#\projekty\DownTatnik\obj\Debug\DownTatnik_MarkupCompile.cache
+D:\PROGRAMOWANIE\C#\projekty\DownTatnik\obj\Debug\DownTatnik_MarkupCompile.lref
+D:\PROGRAMOWANIE\C#\projekty\DownTatnik\obj\Debug\MainWindow.baml
+D:\PROGRAMOWANIE\C#\projekty\DownTatnik\obj\Debug\DownTatnik.g.resources
+D:\PROGRAMOWANIE\C#\projekty\DownTatnik\obj\Debug\DownTatnik.Properties.Resources.resources
+D:\PROGRAMOWANIE\C#\projekty\DownTatnik\obj\Debug\DownTatnik.csproj.GenerateResource.cache
+D:\PROGRAMOWANIE\C#\projekty\DownTatnik\obj\Debug\DownTatnik.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\C#\projekty\DownTatnik\obj\Debug\DownTatnik.exe
+D:\PROGRAMOWANIE\C#\projekty\DownTatnik\obj\Debug\DownTatnik.pdb
